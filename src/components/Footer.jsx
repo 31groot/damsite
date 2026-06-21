@@ -16,7 +16,7 @@ const Footer = () => {
         {/* Contact Information */}
         <div className='text-center'>
           <div className="text-[#cee2eb] text-base sm:text-xl font-medium font-['Montserrat']">
-            baandhtechindia@gmail.in ceo@baandhtech.in | +91 7428381187
+            baandhtechindia@gmail.com ceo@baandhtech.in | +91 7428381187
           </div>
         </div>
 
